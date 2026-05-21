@@ -265,7 +265,6 @@ countdown-action: KILL_ALL
 
 # 🚀 Roadmap
 
-* Mythic-style skills
 * GUI editor
 * Database support
 * Mob leveling
