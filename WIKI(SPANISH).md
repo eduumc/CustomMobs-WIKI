@@ -265,7 +265,6 @@ countdown-action: KILL_ALL
 
 # 🚀 Roadmap
 
-* Habilidades estilo MythicMobs
 * Editor gráfico GUI
 * Soporte para base de datos
 * Sistema de niveles para mobs
