@@ -1,62 +1,4 @@
-````md
-# CustomMobPlugin
 
-> Advanced custom mobs, bosses, portals and dimension system for Paper/Spigot servers.
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Minecraft](https://img.shields.io/badge/minecraft-1.18--1.21-green)
-![Java](https://img.shields.io/badge/java-17+-orange)
-
----
-
-# ✨ Features
-
-- Custom mobs with configurable stats
-- Multiple AI modes
-- Boss phase system
-- Special abilities
-- Custom dimensions
-- Portal system
-- Boss summoners
-- Spawn system
-- Drops & loot tables
-- Boss bars
-- YAML-based configuration
-- No coding required
-
----
-
-# 📦 Installation
-
-## Compile
-
-```bash
-mvn clean package
-````
-
-Compiled jar:
-
-```text
-target/
-```
-
-## Install
-
-Move the jar into:
-
-```text
-plugins/
-```
-
-Start the server.
-
-The plugin will generate:
-
-```text
-plugins/CustomMobPlugin/config.yml
-```
-
----
 
 # ✅ Requirements
 
@@ -340,7 +282,9 @@ MIT License
 
 # ❤️ Credits
 
-Made for Paper/Spigot Minecraft servers.
+Made for edumc_
+discord: eduardo_mc.
+eonix studios link: https://discord.gg/XbvxKhEN
 
 ```
 ```
