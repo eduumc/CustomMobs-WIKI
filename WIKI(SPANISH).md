@@ -284,7 +284,7 @@ MIT License
 
 Made for edumc_
 discord: eduardo_mc.
-eonix studios link: https://discord.gg/XbvxKhEN
+eonix studios link:``` https://discord.gg/XbvxKhEN
+```
 
-```
-```
+
