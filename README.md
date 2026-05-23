@@ -1,4 +1,4 @@
-# CustomMobs | Eonix <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/bf67c199-b673-46c1-919e-d5d77e6bd18a" />
+# CustomMobs | Eonix 
 
 
 <div align="center">
