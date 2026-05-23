@@ -24,7 +24,6 @@
 - 💀 **Boss System** — Boss bars, phase transitions, summoner items, countdown timers
 - 🖥️ **GUI Management** — Full in-game GUI to create and edit mobs without editing files
 - 🌍 **Multilanguage** — Spanish and English built-in
-- 🔔 **Version Notifier** — Automatic update notifications for admins
 
 ## 📦 Quick Install
 
