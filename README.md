@@ -1,4 +1,4 @@
-# CustomMobs Plugin
+# CustomMobs | Eonix
 
 <div align="center">
 
