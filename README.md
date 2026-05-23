@@ -50,4 +50,4 @@
 
 ## 📜 License
 
-This project is for private/commercial use. All rights reserved © Eonix.
+ All rights reserved © Eonix.
